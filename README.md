@@ -75,6 +75,9 @@ Order Status Breakdown
 RFM Customer Segments
 
 
+![Dashboard](Sales_Data_Dashboards.png)
+
+
 
 Project Files
 ├── sales_data.csv          # Original raw dataset
