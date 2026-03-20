@@ -1,4 +1,9 @@
-Sales Performance Analysis — Python & Power BI
+                                                Sales Performance Analysis — Python & Power BI
+
+
+
+
+
 Overview
 This project analyzes sales transaction data from a global automobile parts company covering 2003 to 2005. The goal was to extract actionable business insights from raw data — from understanding which products drive the most revenue, to identifying which customers are at risk of churning.
 The project covers the full data analysis workflow: data cleaning, exploratory analysis, customer segmentation using RFM, and a Power BI dashboard for stakeholder reporting.
